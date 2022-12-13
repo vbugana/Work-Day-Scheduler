@@ -9,7 +9,7 @@ Creating interactive web pages that are dynamically updated using JavaScript, us
 A simple calendar application that allows a user to save events for each hour of the day (9am to 5pm timeframe) by modifying starter code. 
 This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-The [Moment.js](https://momentjs.com/) library needs to be used to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+The [Moment.js](https://momentjs.com/) library needs to be used to work with date and time.
 
 ## User Story
 
